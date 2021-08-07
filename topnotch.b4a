@@ -1,0 +1,599 @@
+﻿Build1=Default,rm.ir.topnotch
+Build2=New_1,com.Top.Notch
+Build3=New_2,com.Top.Notch
+Build4=New_3,com.Top.Notch
+Build5=New_4,com.Top.Notch
+File1=01.jpg
+File10=10.jpg
+File100=TopNotch icon home.png
+File101=TopNotch icon info.png
+File102=TopNotch icon list of tut.png
+File103=TopNotch icon list.png
+File104=TopNotch icon meno.png
+File105=TopNotch icon mic.png
+File106=TopNotch icon pause.png
+File107=TopNotch icon pencil.png
+File108=TopNotch icon play.png
+File109=TopNotch icon rate.png
+File11=11.jpg
+File110=TopNotch icon register.png
+File111=topnotch icon register2.png
+File112=TopNotch icon search.png
+File113=TopNotch icon setting.png
+File114=TopNotch icon share.png
+File115=TopNotch icon stop download.png
+File116=TopNotch icon stop.png
+File117=TopNotch icon time.png
+File118=TopNotch icon unit.png
+File119=TopNotch icon vol.png
+File12=12.jpg
+File120=topnotch splash +.png
+File121=TopNotch-Header.png
+File122=TopNotch-icon-bookb.png
+File123=topnotch-icon-en.png
+File124=TopNotch-icon-exit-d.png
+File125=TopNotch-icon-fa.png
+File126=TopNotch-icon-favorite-d.png
+File127=topnotch-icon-help2.png
+File128=TopNotch-icon-home-d.png
+File129=TopNotch-icon-info-d.png
+File13=3-logo.png
+File130=topnotch-icon-list-of-tut_d.png
+File131=topnotch-icon-mic-d.png
+File132=TopNotch-icon-pause-d.png
+File133=topnotch-icon-pencil-d.png
+File134=TopNotch-icon-play-d.png
+File135=TopNotch-icon-rate-d.png
+File136=TopNotch-icon-search-d.png
+File137=TopNotch-icon-setting-d.png
+File138=TopNotch-icon-share-d.png
+File139=TopNotch-icon-stop-d.png
+File14=3-logob.png
+File140=topnotch-icon-stop-downloadb.png
+File141=topnotch-icon-time-d.png
+File142=topnotch-icon-vol-d.png
+File143=wijet.bal
+File15=Amperzand.ttf
+File16=back.png
+File17=BackGround.jpg
+File18=BKarim.ttf
+File19=BLotus.ttf
+File2=02.jpg
+File20=BNazanin.ttf
+File21=book.bal
+File22=book3.db
+File23=calb.png
+File24=call.png
+File25=cod.bal
+File26=consola.ttf
+File27=d.png
+File28=db.png
+File29=dicdb.db
+File3=03.jpg
+File30=dictionaryenglish.bal
+File31=dictionaryfarsi.bal
+File32=down.png
+File33=down2.png
+File34=eita.png
+File35=eitaB.png
+File36=en.png
+File37=enb.png
+File38=faal.bal
+File39=faal.png
+File4=04.jpg
+File40=faalb.png
+File41=fars.png
+File42=farsb.png
+File43=film.bal
+File44=filma.bal
+File45=Header.jpg
+File46=help.bal
+File47=info.bal
+File48=karbar.png
+File49=karbar2.png
+File5=05.jpg
+File50=ketab.png
+File51=kharid.bal
+File52=Konstytucyja.otf
+File53=KUNSTLER.TTF
+File54=L_seearch.bal
+File55=Layout.bal
+File56=Layout1.bal
+File57=Layout3.bal
+File58=lesson.bal
+File59=LI_matlab.bal
+File6=06.jpg
+File60=Li_unit.bal
+File61=list.bal
+File62=Lsetting.bal
+File63=lst_fav.bal
+File64=Ltemp.bal
+File65=main.bal
+File66=mas.bal
+File67=mas2.bal
+File68=matn.bal
+File69=menu.bal
+File7=07.jpg
+File70=off.png
+File71=off2.png
+File72=p.png
+File73=pardakht.bal
+File74=pass.png
+File75=passb.png
+File76=pnlly.bal
+File77=rahnama.bal
+File78=reg.png
+File79=reg2.bal
+File8=08.jpg
+File80=reg2.png
+File81=register.bal
+File82=sabt.bal
+File83=SEND.png
+File84=sendb.png
+File85=Tas.bal
+File86=telegram.png
+File87=telegramB.png
+File88=TopNotch Header.png
+File89=TopNotch Header01.png
+File9=09.jpg
+File90=TopNotch Header1.jpg
+File91=TopNotch icon book.png
+File92=TopNotch icon box.png
+File93=topnotch icon box2.png
+File94=TopNotch icon download.png
+File95=topnotch icon enfa2.png
+File96=TopNotch icon exit.png
+File97=TopNotch icon faen.png
+File98=TopNotch icon favorite.png
+File99=TopNotch icon help.png
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup110=Default Group
+FileGroup111=Default Group
+FileGroup112=Default Group
+FileGroup113=Default Group
+FileGroup114=Default Group
+FileGroup115=Default Group
+FileGroup116=Default Group
+FileGroup117=Default Group
+FileGroup118=Default Group
+FileGroup119=Default Group
+FileGroup12=Default Group
+FileGroup120=Default Group
+FileGroup121=Default Group
+FileGroup122=Default Group
+FileGroup123=Default Group
+FileGroup124=Default Group
+FileGroup125=Default Group
+FileGroup126=Default Group
+FileGroup127=Default Group
+FileGroup128=Default Group
+FileGroup129=Default Group
+FileGroup13=Default Group
+FileGroup130=Default Group
+FileGroup131=Default Group
+FileGroup132=Default Group
+FileGroup133=Default Group
+FileGroup134=Default Group
+FileGroup135=Default Group
+FileGroup136=Default Group
+FileGroup137=Default Group
+FileGroup138=Default Group
+FileGroup139=Default Group
+FileGroup14=Default Group
+FileGroup140=Default Group
+FileGroup141=Default Group
+FileGroup142=Default Group
+FileGroup143=Default Group
+FileGroup15=Default Group
+FileGroup16=Default Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup48=Default Group
+FileGroup49=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup51=Default Group
+FileGroup52=Default Group
+FileGroup53=Default Group
+FileGroup54=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=Default Group
+FileGroup62=Default Group
+FileGroup63=Default Group
+FileGroup64=Default Group
+FileGroup65=Default Group
+FileGroup66=Default Group
+FileGroup67=Default Group
+FileGroup68=Default Group
+FileGroup69=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup71=Default Group
+FileGroup72=Default Group
+FileGroup73=Default Group
+FileGroup74=Default Group
+FileGroup75=Default Group
+FileGroup76=Default Group
+FileGroup77=Default Group
+FileGroup78=Default Group
+FileGroup79=Default Group
+FileGroup8=Default Group
+FileGroup80=Default Group
+FileGroup81=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group
+FileGroup96=Default Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Default Group
+Library1=ahnavigationdrawer
+Library10=hitex_recyclerview
+Library11=hitex_targetview
+Library12=hitexzip
+Library13=ime
+Library14=javaobject
+Library15=manampersiandateultimate
+Library16=materialdialogs
+Library17=ms_daynight
+Library18=msshowtips
+Library19=network
+Library2=animation
+Library20=okhttp
+Library21=okhttputils2
+Library22=phone
+Library23=pinchzoomandmove
+Library24=pnmultiplesharing
+Library25=prdownloader
+Library26=promptdialog
+Library27=randomaccessfile
+Library28=reflection
+Library29=runtimepermissions
+Library3=animationplus
+Library30=shlibrary
+Library31=sql
+Library32=stringfunctions
+Library33=stringutils
+Library34=sweetalertdialog
+Library35=tts
+Library36=inappbazzar
+Library4=appcompat
+Library5=ariaglide
+Library6=arialib
+Library7=audio
+Library8=core
+Library9=firebasestorage
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="27"/>~\n~<uses-permission android:name="com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR" />~\n~<supports-screens android:largeScreens="true" ~\n~android:requestLegacyExternalStorage="true"~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~SetApplicationAttribute(android:theme, "@android:style/Theme.Holo.Light")~\n~'End of default text.~\n~AddPermission(android.permission.WRITE_EXTERNAL_STORAGE)~\n~SetApplicationAttribute(android:usesCleartextTraffic,"true")~\n~AddApplicationText(~\n~<uses-library~\n~      android:name="org.apache.http.legacy"~\n~      android:required="false" />~\n~)~\n~AddManifestText(<uses-permission~\n~   android:name="android.permission.WRITE_EXTERNAL_STORAGE"~\n~   android:maxSdkVersion="18" />~\n~)~\n~~\n~AddApplicationText(~\n~  <provider~\n~  android:name="android.support.v4.content.FileProvider"~\n~  android:authorities="$PACKAGE$.provider"~\n~  android:exported="false"~\n~  android:grantUriPermissions="true">~\n~  <meta-data~\n~  android:name="android.support.FILE_PROVIDER_PATHS"~\n~  android:resource="@xml/provider_paths"/>~\n~  </provider>~\n~)~\n~CreateResource(xml, provider_paths,~\n~   <files-path name="name" path="shared" />~\n~)~\n~~\n~
+Module1=AnimateLayout
+Module10=film
+Module11=filma
+Module12=firstactivity
+Module13=Httpjob2
+Module14=HttpUtils2Service2
+Module15=info
+Module16=jostojo
+Module17=kharid
+Module18=leson
+Module19=LI_matlab
+Module2=book
+Module20=Li_unit
+Module21=listM
+Module22=lst_fav
+Module23=matlab
+Module24=matn
+Module25=moghadame
+Module26=Reg2
+Module27=Register
+Module28=search
+Module29=setting
+Module3=cod
+Module30=Starter
+Module31=Starter2
+Module32=startes
+Module33=tasvir
+Module34=tasvir2
+Module35=widget
+Module36=wijet
+Module37=yad
+Module4=dic
+Module5=dictionaryenglish
+Module6=dictionaryfarsi
+Module7=DownloadService
+Module8=Faal
+Module9=FileProvider
+NumberOfFiles=143
+NumberOfLibraries=36
+NumberOfModules=37
+Version=10.7
+@EndOfDesignText@
+
+#Region Project Attributes 
+	#ApplicationLabel: Top Notch
+	#VersionCode: 16
+	#VersionName: 1.0.2
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: true
+	#MultiDex:True
+#End Region
+#AdditionalRes: ..\Sweet_Alert_Dialog
+	#AdditionalRes: ..\resPromptDialog
+#Region Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: false
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+Dim market As Int
+
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+	Dim t1 As Timer
+	Dim n As Notification
+	Private img_back As ImageView
+	Private img_like As ImageView
+	Private btn_home As Button
+	Dim r As RuntimePermissions
+	Dim sql1 As SQL
+	Dim cur As Cursor
+	Private ToggleButton1 As ToggleButton
+	Dim hzip As HitexZIP
+
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+	Activity.LoadLayout("Layout")
+
+'	hzip.Initialize(File.DirAssets,"book3.zip","zip")
+'	hzip.PassWord="Roli@2466"
+'	hzip.ExtractAll(File.DirInternal)
+	If File.Exists(File.DirInternal,"book3.db") = False Then
+	      File.Copy(File.DirAssets,"book3.db",File.DirInternal,"book3.db")
+		File.Copy(File.DirAssets,"1.txt",File.DirInternal,"1.txt")
+	Else
+		If (File.Exists(File.DirAssets,"1.txt") = True) And (File.Exists(File.DirInternal,"1.txt") = False) Then
+		File.Copy(File.DirAssets,"book3.db",File.DirInternal,"book3.db")
+		File.Copy(File.DirAssets,"1.txt",File.DirInternal,"1.txt")
+		End If
+	End If
+	
+	t1.Initialize("t1",2000)
+	t1.Enabled = True
+
+'		File.Copy(File.DirAssets , "book3.db" , File.DirInternal , "book3.db")
+'	End If
+	If File.IsDirectory(File.DirRootExternal,"Top Notch") = False Then
+
+		File.MakeDir(File.DirRootExternal,"Top Notch")
+	End If
+	
+	If File.IsDirectory(File.DirRootExternal,"Top Notch\3") = False Then
+
+		File.MakeDir(File.DirRootExternal,"Top Notch\3")
+	End If
+	
+	market=2  '	دو بازار صفر درگاه و یک مایکت
+	
+	Dim jo As JavaObject
+	jo.InitializeContext
+	jo.RunMethodJO("getWindow", Null).RunMethod("setNavigationBarColor", Array(Colors.ARGB(240,100, 149, 237 )))
+	SetStatusBarColor(30)
+End Sub
+Sub zip_ZipDone (FileName As String, Progress As Int)
+'	Log("Roli")
+'	t1.Initialize("t1",2000)
+'	t1.Enabled = True
+	
+End Sub
+
+Sub t1_Tick
+If File.Exists(File.DirInternal , "book3.db") = True Then
+		
+	sql1.Initialize(File.DirInternal , "book3.db" , True)
+		cur = sql1.ExecQuery("SELECT * FROM register")
+'		For i = 0 To cur.RowCount - 1
+'			cur.Position = i
+'		Next
+	
+'	If cur.GetString("reg")=1 Then
+Log("didi")
+		Log(cur.RowCount)
+		If cur.RowCount<>0 Then
+		Activity.Finish
+		StartActivity("firstactivity")
+		t1.Enabled = False
+		AnimateLayout.SetAnimation("file3" , "file1")
+	Else
+		n.Initialize
+		n.Icon="icon"
+		n.Sound=True
+		n.Vibrate=True
+		n.AutoCancel=True
+		n.SetInfo("تشکر","تشکر از شما که اپلیکشن ما را برای آموزش زبان انتخاب کردید .","")
+		n.Notify(1)
+		StartActivity("Register")
+		Activity.Finish
+		t1.Enabled = False
+		AnimateLayout.SetAnimation("file3" , "file1")
+	End If
+End If
+End Sub
+
+
+
+Sub Activity_Resume
+
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+
+'Sub SetStatusBarColor(color As Int)
+'	Dim Build As JavaObject
+'	Dim SdkInt As Int = Build.InitializeStatic("android.os.Build.VERSION").GetField("SDK_INT")
+'	If SdkInt >= 21 Then
+'		Dim jo As JavaObject
+'		jo.InitializeContext
+'		Dim window As JavaObject = jo.RunMethodJO("getWindow", Null)
+'		window.RunMethod("addFlags", Array (0x80000000))
+'		window.RunMethod("clearFlags", Array (0x04000000))
+'		window.RunMethod("setStatusBarColor", Array(Colors.RGB(146 , 101 , 255)))
+'	End If
+'End Sub
+'
+'Sub SetNavigationBarColor(color As Int)
+'	Dim p As Phone
+'	If p.SdkVersion >= 21 Then
+'		Dim jo As JavaObject
+'		jo.InitializeContext
+'		Dim window As JavaObject = jo.RunMethodJO("getWindow", Null)
+'		window.RunMethod("addFlags", Array (0x80000000))
+'		window.RunMethod("clearFlags", Array (0x04000000))
+'		window.RunMethod("setNavigationBarColor", Array(Colors.RGB(146 , 101 , 255)))
+'	End If
+'	
+'End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean 'Return True to consume the event
+		Return True
+End Sub
+
+Sub Activity_PermissionResult (Permission As String, Result As Boolean)
+	
+	If Permission = r.Permission_WRITE_EXTERNAL_STORAGE And Result = False Then
+		Msgbox (" You do not allow access to the memory card in this program, in which case some other sections may not work properly." ,"")
+	End If
+End Sub
+
+
+Sub Activity_Click
+	sql1.Initialize(File.DirInternal , "book3.db" , True)
+	cur = sql1.ExecQuery("SELECT * FROM register")
+'	For i = 0 To cur.RowCount - 1
+'		cur.Position = i
+'	Next
+'	
+'	If cur.GetString("reg")=1 Then
+	
+	Log("didi")
+	Log(cur.RowCount)
+	If cur.RowCount<>0 Then
+		Activity.Finish
+		StartActivity("firstactivity")
+		t1.Enabled = False
+		AnimateLayout.SetAnimation("file3" , "file1")
+	
+	Else
+		n.Initialize
+		n.Icon="icon"
+		n.Sound=True
+		n.Vibrate=True
+		n.AutoCancel=True
+		n.SetInfo("تشکر","ممنون از شما که اپلیکشن ما را انتخاب کردید.","")
+		n.Notify(1)
+		StartActivity("Register")
+		Activity.Finish
+		t1.Enabled = False
+		AnimateLayout.SetAnimation("file3" , "file1")
+	End If
+End Sub
+
+'Sub SetStatusBarColor(clr As Int)
+'	Dim p As Phone
+'	If p.SdkVersion > 20 Then
+'
+'		'Background color
+'		Dim jo As JavaObject
+'		jo.InitializeContext
+'		Dim window As JavaObject = jo.RunMethodJO("getWindow", Null)
+'		window.RunMethod("addFlags", Array (0x80000000))
+'		window.RunMethod("clearFlags", Array (0x04000000))
+'		window.RunMethod("setStatusBarColor", Array(clr))
+' 
+'		Dim view As JavaObject = window.RunMethodJO("getDecorView",Null)
+'
+'		view.RunMethod("setSystemUiVisibility",Array(Bit.Or(0x00002020,view.RunMethod("getSystemUiVisibility",Null)))) 'Light style with black icons and text
+'		'  view.RunMethod("setSystemUiVisibility",Array(0)) 'Dark style with White icons and text
+'	End If
+'End Sub
+Sub SetStatusBarColor(color As Int)
+	Dim p As Phone
+	If p.SdkVersion >= 21 Then
+		Dim jo As JavaObject
+		jo.InitializeContext
+		Dim window As JavaObject = jo.RunMethodJO("getWindow", Null)
+		window.RunMethod("addFlags", Array (0x80000000))
+		window.RunMethod("clearFlags", Array (0x04000000))
+		window.RunMethod("setStatusBarColor", Array(Colors.ARGB(240,100, 149, 237 )))
+	End If
+End Sub
